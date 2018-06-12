@@ -1,0 +1,7 @@
+Don\'t believe Leonard Maltin et al. This is a wonderful movie with greatperformances by Vivien Leigh (Cleopatra), Claude Rains (Caesar), and FloraRobson (the maid). A truly literate and witty script and the solidappearances of Stewart Granger, Francis L. Sullivan, Ernest Thesiger, andBasil Sidney make this a must see. Anthony Harvey appears as Ptolemy; helater directed The Lion in Winter! Leigh and Rains are especially good andtheir chemistry together is peerless. The sets are also magnificent. Atrulywonderful "adult" film. This is my by favorite Vivien Leighperformance.
+=============
+like ratio : 0.8333333333333334
+interest ratio: 0.8
+moviename: Caesar and Cleopatra
+number of likes: 30
+number of interests : 36

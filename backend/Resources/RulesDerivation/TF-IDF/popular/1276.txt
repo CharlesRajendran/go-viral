@@ -1,0 +1,7 @@
+An excellent Holmes story that benefits greatly by going directly tothe source (mainly Arthur Conan Doyle\'s "The Valley Of Fear") and notonly sticking pretty much to the original plot but also using a lot ofthe great dialog that Doyle wrote for Holmes. The problem withtranslating Sherlock Holmes to the screen (or writing new Holmesstories in full-length novel form) is that Doyle\'s original creationwas such a brilliant detective he solved most mysteries almostinstantly. Therefore, the short story was the best medium in which topresent his adventures. If a story has to be stretched out to novel orfeature film length, some other means had to be found to fill out thetime and pages. Thus, beginning with Basil Rathbone (or maybe evenearlier with William Gillette\'s original play), Sherlock Holmes becamean action hero rather than a thinker. Arthur Wotner\'s Holmes and thescript of "Triumph" retains the original essence of "the best andwisest man I have ever known" and shows us that he can delight andthrill us even more by seeing him as he was intended to be seen.
+=============
+like ratio : 0.9375
+interest ratio: 0.64
+moviename: The Triumph of Sherlock Holmes
+number of likes: 15
+number of interests : 16

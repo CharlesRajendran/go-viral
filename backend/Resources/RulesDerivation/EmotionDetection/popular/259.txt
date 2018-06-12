@@ -1,0 +1,7 @@
+This is the first movie in what quickly became one of the most populargenres in the earliest years of motion pictures. Many of Edison\'searliest Kinetoscope films featured popular dancers, the best knownprobably being Annabelle (Whitford) Moore. But "Carmencita" was thefirst such feature and, as best as anyone has been able to determine,the dancer herself also became the first woman to appear in anAmerican-made movie.The dance routine itself is similar in style and quality to most of theother movies of its kind and era. The completely dark background makes"Carmencita" herself the full focus of attention. Her appeal is said tohave been based as much on her energy and fervor as on her actual skillin dancing, and even with the limitations of 1890s cinematography, it\'seasy to tell that she is enthusiastic about what she is doing. Herstage routine was probably even livelier.It\'s not hard to guess why this kind of movie was so popular in itstime. This and similar features could provide something worth seeingwithin the very limited running time of the earliest movies. Some ofthe later movies of popular dancers display more film-makingexperience, but "Carmencita" got the genre off to a lively start.
+=============
+like ratio : 0.95
+interest ratio: 1.6666666666666667
+moviename: Carmencita
+number of likes: 19
+number of interests : 20

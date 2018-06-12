@@ -1,0 +1,7 @@
+If you like Robin Hood, this is one of the best if not the best everRobinHood creation ever. Richard Greene plays Robin Hood brilliantly. Growinguphe was Robin Hood. If you have never seen this before, where have been,buyyourself a copy of this brilliant masterpiece.
+=============
+like ratio : 0.8823529411764706
+interest ratio: 0.5666666666666667
+moviename: `` The Adventures of Robin Hood ''
+number of likes: 15
+number of interests : 17

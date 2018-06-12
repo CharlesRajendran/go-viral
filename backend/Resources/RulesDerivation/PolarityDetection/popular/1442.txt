@@ -1,0 +1,7 @@
+A train-passage car carrying 2 reporters--one who resembles Prof.Quatermassa bit too much--accidently winds up breaking off from the rest of the trainleaving the 2 men stranded in a strange little European country namedGudavia. Once there, they find they cannot leave as those running thecountry have other plans. They investigate and uncover a mad scientist\'sconspiracy to control the people by turning them all into slaves of thestate with the help of a gamma ray machine. This movie is pretty outrageousand displays some serious leaps of logic. It also features a most unlikelychange of heart in one of the main characters. Still the lead actors arelikable and the film is silly  fun.
+=============
+like ratio : 0.8260869565217391
+interest ratio: 1.9166666666666667
+moviename: The Gamma People
+number of likes: 19
+number of interests : 23

@@ -1,0 +1,7 @@
+My friend and I rented The Island of Dr. Moreau (1977). We both enjoyeditand thought the make-up was outstanding. There is some good acting and thestory was close to Wells\'s novel. The remake was awful. This one is muchbetter, so if you want to see a good science fiction movie rent this one.You won\'t be dissapointed. 7 out of 10.
+=============
+like ratio : 0.8571428571428571
+interest ratio: 0.7368421052631579
+moviename: The Island of Dr. Moreau
+number of likes: 24
+number of interests : 28

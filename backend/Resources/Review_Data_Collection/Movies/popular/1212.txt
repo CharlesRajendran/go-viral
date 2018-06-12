@@ -1,0 +1,7 @@
+A much underestimated movie. I\'ve seen several of Murnau\'s flicks, andwhileI am the generally a big fan of his work, this one is actually one of myfavorites. In a dreamlike manner it tells a story of main character\'sobsession with a manipulative and cruel woman. His love and desire makeshimlose his senses - to a point where object of his passion becomes like ahaunting spectre, a phantom. In some way Phantom is a forecast of anothergerman picture, the famous Blaue Engel. Although the plot in one way oranother has become a Hollywood cliche over the years, the movie is dark,strange and compelling. Murnau\'s depiction of insanity, especially in thefinal scenes is by itself a milestone of cinema.
+=============
+like ratio : 0.8333333333333334
+interest ratio: 1.411764705882353
+moviename: Phantom
+number of likes: 20
+number of interests : 24

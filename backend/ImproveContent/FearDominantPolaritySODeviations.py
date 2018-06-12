@@ -1,0 +1,42 @@
+#FEAR - POPULAR - SO OF EACH POLARITY
+
+FEAR_P_POSITIVITY_SO = 14.03
+FEAR_P_NEGATIVITY_SO = -11.76
+
+
+#FEAR - NON POPULAR - SO OF EACH POLARITY
+
+FEAR_NP_POSITIVITY_SO = 9.12
+FEAR_NP_NEGATIVITY_SO = -12.75
+
+inner_rule_dict = {}
+
+
+def deviations(d):
+    local_pc = 0
+    local_npc = 0
+    
+    #positive
+    angerDP = abs(FEAR_P_POSITIVITY_SO - d['semanticOrientationPos'])
+    angerDNP = abs(FEAR_NP_POSITIVITY_SO - d['semanticOrientationPos'])
+    if(angerDP>angerDNP):
+        local_npc = local_npc + 1
+        inner_rule_dict['positivity'] = 0
+    else:
+        local_pc = local_pc + 1
+        inner_rule_dict['positivity'] = 1
+
+    #negative
+    antDP = abs(FEAR_P_NEGATIVITY_SO - d['semanticOrientationNeg'])
+    antDNP = abs(FEAR_NP_NEGATIVITY_SO - d['semanticOrientationNeg'])
+    if(antDP>antDNP):
+        local_npc = local_npc + 1
+        inner_rule_dict['negativity'] = 0
+    else:
+        local_pc = local_pc + 1
+        inner_rule_dict['negativity'] = 1
+
+    if(local_npc>local_pc):
+        return 0
+    else:
+        return 1

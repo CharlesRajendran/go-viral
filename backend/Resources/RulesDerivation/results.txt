@@ -1,0 +1,585 @@
+Percentages of Each Emotion in Popular Posts
+========================================================
+
+Anger : 8.29
+Ant : 14.09
+Disgust : 6.14
+Fear : 9.67
+Joy : 22.63
+Sadness : 9.27
+Surprise : 9.98
+Trust : 18.97
+
+Percentages of Each Emotion in Non-Popular Posts
+=============================================================
+
+Anger : 9.53
+Ant : 12.82
+Disgust : 9.22
+Fear : 9.58
+Joy : 18.20
+Sadness : 11.77
+Surprise : 8.65
+Trust : 14.47
+
+SO of Each Emotion in non-popular posts
+======================================================================
+
+Anger : -4.08
+Ant : 4.83
+Disgust : -4.38
+Fear : -4.31
+Joy : 7.54
+Sadness : -4.41
+Surprise : 2.93
+Trust : 5.53
+
+SO of Each Emotion in popular posts
+===========================================================================
+
+Anger : -3.50
+Ant : 6.90
+Disgust : -3.39
+Fear : -4.22
+Joy : 13.48
+Sadness : -3.65
+Surprise : 4.58
+Trust : 9.77
+
+==================================================================================
+
+Average Emotion Percentage Of A Popular Post : 11.38
+Average Semantic Orientation Of A Popular Post : 19.97
+
+===========================================================================
+
+Average Emotion Percentage Of A non-Popular Post : 11.28
+Average Semantic Orientation Of A non-Popular Post : 3.65
+
+=================================================================================
+
+Average Positivity percentage of a non-popular post: 68.39  
+Average Negativity percentage of a non-popular post: 31.61
+
+=======================================================
+
+Average Positive SO of a non-popular post: 14.49
+Average Negative SO of a non-popular post: -8.77  
+
+=================================================================================
+
+Average Positivity percentage of a popular post: 74.15 
+Average Negativity percentage of a popular post: 25.85
+
+=======================================================
+
+Average Positive SO of a popular post: 23.35
+Average Negative SO of a popular post: -7.26
+
+=====================================================
+
+******************************************************
+*                                                    *
+*	FOR EACH DOMINANT EMOTION                    *
+*                                                    *
+******************************************************
+
+
+ANGER - Non popular
+==========================
+
+Anger SO: -7.30
+Ant SO: 1.59
+Disgust SO: -6.41
+Fear SO: -6.11
+Joy SO: 2.78
+Sadness SO: -5.70
+Surprise SO: 0.76
+Trust SO: 2.59
+Average Positive SO : 8.03
+Average Negative SO : -10.95
+
+Anger : 25.65
+Ant : 6.60
+Disgust : 15.05
+Fear : 17.45
+Joy : 6.36
+Sadness : 16.61
+Surprise : 5.54
+Trust : 6.74
+Positive : 51.71
+Negative : 48.29
+
+ANT - Non popular
+==========================
+
+Anger SO: -1.80
+Ant SO: 7.45
+Disgust SO: -1.92
+Fear SO: -2.00
+Joy SO: 8.80
+Sadness SO: -2.00
+Surprise SO: 4.37
+Trust SO: 6.08
+Average Positive SO : 15.82
+Average Negative SO : -4.55
+
+Anger : 4.40
+Ant : 27.63
+Disgust : 4.01
+Fear : 6.58
+Joy : 23.40
+Sadness : 6.28
+Surprise : 12.65
+Trust : 15.04
+Positive : 81.56
+Negative : 18.44
+
+DISGUST - Non popular
+==========================
+
+Anger SO: -6.06
+Ant SO: 1.35
+Disgust SO: -9.48
+Fear SO: -5.94
+Joy SO: 3.58
+Sadness SO: -6.87
+Surprise SO: 0.65
+Trust SO: 2.55
+Average Positive SO : 9.39
+Average Negative SO : -13.42
+
+Anger : 13.61
+Ant : 5.84
+Disgust : 29.28
+Fear : 13.72
+Joy : 6.96
+Sadness : 20.90
+Surprise : 3.61
+Trust : 6.08
+Positive : 52.92
+Negative : 47.08
+
+FEAR - Non popular
+==========================
+
+Anger SO: -7.00
+Ant SO: 1.47
+Disgust SO: -6.66
+Fear SO: -9.00
+Joy SO: 2.56
+Sadness SO: -7.28
+Surprise SO: 0.97
+Trust SO: 2.91
+Average Positive SO : 9.12
+Average Negative SO : -12.75
+
+Anger : 17.43
+Ant : 5.09
+Disgust : 13.30
+Fear : 25.33
+Joy : 6.25
+Sadness : 19.06
+Surprise : 5.86
+Trust : 7.68
+Positive : 54.76
+Negative : 45.24
+
+JOY - Non popular
+==========================
+
+Anger SO: -1.76
+Ant SO: 7.53
+Disgust SO: -1.85
+Fear SO: -2.01
+Joy SO: 11.59
+Sadness SO: -2.12
+Surprise SO: 4.66
+Trust SO: 6.72
+Average Positive SO : 18.22
+Average Negative SO : -5.51
+
+Anger : 4.88
+Ant : 18.95
+Disgust : 3.35
+Fear : 5.39
+Joy : 31.35
+Sadness : 6.59
+Surprise : 12.52
+Trust : 16.97
+Positive : 79.32
+Negative : 20.68
+
+SADNESS - Non popular
+==========================
+
+Anger SO: -6.85
+Ant SO: 1.77
+Disgust SO: -8.65
+Fear SO: -7.92
+Joy SO: 3.69
+Sadness SO: -9.48
+Surprise SO: 1.40
+Trust SO: 2.81
+Average Positive SO : 9.62
+Average Negative SO : -13.98
+
+Anger : 13.74
+Ant : 6.45
+Disgust : 17.58
+Fear : 15.61
+Joy : 8.22
+Sadness : 26.01
+Surprise : 5.40
+Trust : 6.99
+Positive : 52.59
+Negative : 47.41
+
+SURPRISE - Non popular
+==========================
+
+Anger SO: -0.90
+Ant SO: 4.05
+Disgust SO: -1.00
+Fear SO: -1.40
+Joy SO: 6.15
+Sadness SO: -1.00
+Surprise SO: 4.85
+Trust SO: 4.00
+Average Positive SO : 11.10
+Average Negative SO : -3.10
+
+Anger : 4.48
+Ant : 19.54
+Disgust : 3.86
+Fear : 5.04
+Joy : 23.14
+Sadness : 5.05
+Surprise : 25.78
+Trust : 13.11
+Positive : 83.28
+Negative : 16.72
+
+TRUST - Non popular
+==========================
+
+Anger SO: -2.17
+Ant SO: 4.77
+Disgust SO: -2.19
+Fear SO: -2.20
+Joy SO: 7.44
+Sadness SO: -1.98
+Surprise SO: 3.03
+Trust SO: 7.77
+Average Positive SO : 16.08
+Average Negative SO : -5.66
+
+Anger : 6.42
+Ant : 13.36
+Disgust : 5.12
+Fear : 7.11
+Joy : 21.10
+Sadness : 8.02
+Surprise : 8.86
+Trust : 30.02
+Positive : 76.10
+Negative : 23.90
+
+
+ANGER - Popular
+==================
+
+Anger SO: -6.37
+Ant SO: 2.78
+Disgust SO: -5.74
+Fear SO: -5.63
+Joy SO: 5.18
+Sadness SO: -4.87
+Surprise SO: 1.05
+Trust SO: 3.98
+Average Positive SO : 14.75
+Average Negative SO : -9.27
+
+Anger : 22.57
+Ant : 9.00
+Disgust : 13.16
+Fear : 13.42
+Joy : 9.82
+Sadness : 13.27
+Surprise : 7.01
+Trust : 11.74
+Positive : 61.90
+Negative : 38.10
+
+ANT - Popular
+==================
+
+Anger SO: -1.48
+Ant SO: 9.35
+Disgust SO: -1.68
+Fear SO: -2.15
+Joy SO: 10.51
+Sadness SO: -1.69
+Surprise SO: 4.55
+Trust SO: 7.17
+Average Positive SO : 18.88
+Average Negative SO : -4.73
+
+Anger : 5.58
+Ant : 27.23
+Disgust : 3.79
+Fear : 8.76
+Joy : 22.66
+Sadness : 6.75
+Surprise : 10.83
+Trust : 14.40
+Positive : 78.65
+Negative : 21.35
+
+DISGUST - Popular
+==================
+
+Anger SO: -7.09
+Ant SO: 1.26
+Disgust SO: -8.28
+Fear SO: -7.01
+Joy SO: 6.65
+Sadness SO: -6.93
+Surprise SO: 0.91
+Trust SO: 3.19
+Average Positive SO : 13.56
+Average Negative SO : -10.46
+
+Anger : 14.98
+Ant : 6.02
+Disgust : 21.23
+Fear : 16.75
+Joy : 10.14
+Sadness : 15.01
+Surprise : 8.39
+Trust : 7.48
+Positive : 58.65
+Negative : 41.35
+
+FEAR - Popular
+==================
+
+Anger SO: -6.77
+Ant SO: 2.31
+Disgust SO: -6.42
+Fear SO: -9.00
+Joy SO: 6.75
+Sadness SO: -6.93
+Surprise SO: 1.22
+Trust SO: 4.14
+Average Positive SO : 14.03
+Average Negative SO : -11.76
+
+Anger : 12.86
+Ant : 8.28
+Disgust : 11.48
+Fear : 24.07
+Joy : 10.78
+Sadness : 14.74
+Surprise : 8.02
+Trust : 9.76
+Positive : 56.34
+Negative : 43.66
+
+JOY - Popular
+==================
+
+Anger SO: -2.28
+Ant SO: 8.64
+Disgust SO: -2.35
+Fear SO: -3.06
+Joy SO: 17.53
+Sadness SO: -2.40
+Surprise SO: 5.99
+Trust SO: 10.90
+Average Positive SO : 27.24
+Average Negative SO : -5.54
+
+Anger : 5.41
+Ant : 16.54
+Disgust : 4.43
+Fear : 6.78
+Joy : 31.04
+Sadness : 6.39
+Surprise : 10.60
+Trust : 18.81
+Positive : 81.20
+Negative : 18.80
+
+SADNESS - Popular
+==================
+
+Anger SO: -4.48
+Ant SO: 2.32
+Disgust SO: -4.69
+Fear SO: -5.39
+Joy SO: 5.97
+Sadness SO: -6.01
+Surprise SO: 1.45
+Trust SO: 3.58
+Average Positive SO : 14.34
+Average Negative SO : -8.57
+
+Anger : 13.18
+Ant : 7.46
+Disgust : 10.42
+Fear : 15.69
+Joy : 11.55
+Sadness : 23.80
+Surprise : 6.41
+Trust : 11.48
+Positive : 63.25
+Negative : 36.75
+
+SURPRISE - Popular
+==================
+
+Anger SO: -3.23
+Ant SO: 4.45
+Disgust SO: -2.63
+Fear SO: -3.65
+Joy SO: 8.79
+Sadness SO: -3.32
+Surprise SO: 4.12
+Trust SO: 6.84
+Average Positive SO : 16.14
+Average Negative SO : -5.32
+
+Anger : 9.21
+Ant : 13.31
+Disgust : 7.02
+Fear : 9.05
+Joy : 16.68
+Sadness : 9.10
+Surprise : 21.53
+Trust : 14.10
+Positive : 70.02
+Negative : 29.98
+
+TRUST - Popular
+==================
+
+Anger SO: -2.56
+Ant SO: 5.99
+Disgust SO: -2.73
+Fear SO: -3.17
+Joy SO: 11.89
+Sadness SO: -2.59
+Surprise SO: 5.16
+Trust SO: 12.23
+Average Positive SO : 23.30
+Average Negative SO : -6.44
+
+Anger : 7.11
+Ant : 11.55
+Disgust : 5.15
+Fear : 7.61
+Joy : 20.65
+Sadness : 8.64
+Surprise : 10.58
+Trust : 28.71
+Positive : 77.19
+Negative : 22.81
+
+
+*************************************
+*                                   *
+*	FOR EACH POLARITY           *
+*                                   *
+*************************************
+
+
+POSITIVE - NON POPULAR
+=========================
+
+Anger SO: -2.76
+Ant SO: 5.41
+Disgust SO: -2.80
+Fear SO: -3.02
+Joy SO: 8.24
+Sadness SO: -2.96
+Surprise SO: 3.43
+Trust SO: 6.02
+
+Anger : 7.72
+Ant : 13.85
+Disgust : 7.27
+Fear : 8.26
+Joy : 20.39
+Sadness : 10.20
+Surprise : 9.28
+Trust : 16.22
+
+NEGATIVE - NON POPULAR
+=========================
+
+Anger SO: -9.67
+Ant SO: 2.44
+Disgust SO: -10.53
+Fear SO: -9.65
+Joy SO: 4.37
+Sadness SO: -10.49
+Surprise SO: 1.58
+Trust SO: 3.56
+
+Anger : 17.66
+Ant : 6.98
+Disgust : 17.22
+Fear : 16.42
+Joy : 8.77
+Sadness : 18.76
+Surprise : 6.16
+Trust : 6.28
+
+POSITIVE - POPULAR
+=========================
+
+Anger SO: -2.93
+Ant SO: 7.19
+Disgust SO: -2.85
+Fear SO: -3.59
+Joy SO: 13.91
+Sadness SO: -3.13
+Surprise SO: 4.78
+Trust SO: 10.03
+
+Anger : 7.58
+Ant : 14.58
+Disgust : 5.67
+Fear : 8.78
+Joy : 23.74
+Sadness : 8.81
+Surprise : 10.12
+Trust : 19.69
+
+NEGATIVE - POPULAR
+=========================
+
+
+Anger SO: -9.67
+Ant SO: 2.60
+Disgust SO: -8.82
+Fear SO: -11.16
+Joy SO: 7.93
+Sadness SO: -9.07
+Surprise SO: 1.28
+Trust SO: 5.63
+
+Anger : 16.90
+Ant : 7.02
+Disgust : 12.44
+Fear : 20.73
+Joy : 8.53
+Sadness : 15.56
+Surprise : 9.21
+Trust : 9.60
+
+
+
+
+

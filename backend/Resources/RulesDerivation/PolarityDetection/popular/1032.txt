@@ -1,0 +1,7 @@
+I echo the previous viewers comments.  When released in 1979, THE MAIN EVENTwas an immediate summer hit grossing $66 million in the US and $80 millionaround the world.  The film was popular not only because it reunited thestars of the 1972 blockbuster WHAT\'S UP, DOC?, but also because of it\'slight tone and old-fashioned fun.The story doesn\'t really matter, all you need to know is that the chemistrybetween the stars is fun and exciting and the screenplay gives them plentyof room to inhabit the screen.  Streisand is as lovable as ever and O\'Nealhas rarely been more charming.As I said before:  Good fun!  7/10.
+=============
+like ratio : 0.8461538461538461
+interest ratio: 0.9285714285714286
+moviename: The Main Event
+number of likes: 11
+number of interests : 13

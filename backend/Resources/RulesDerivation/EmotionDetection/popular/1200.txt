@@ -1,0 +1,7 @@
+"Kitty Foyle" is a lush, expertly done example of the "women\'s films"that were popular in the 1940\'s and are so rare today. The rathersimplistic plot focuses on Kitty\'s choice of sharing her life witheither a married scion of a mainline family or an impoverished doctor,both of whom love her. Pure soap opera, but lovingly done, especiallythose luminous closeups. The device of having Kitty talk to her ownconscience is rather hokey, but does provide for an interesting touch.The spark in the production is the admirably natural but spiritedperformance of Ginger Rogers in the title role. She perfectly fits therole of a working girl surviving on her wits and gumption, and reallyshines when telling off her rich, patronizing in-laws. See it for her,and for a somewhat dated but still intriguing view of the travails ofindependent women during the first half of the 20th century.
+=============
+like ratio : 0.8518518518518519
+interest ratio: 0.675
+moviename: Kitty Foyle
+number of likes: 23
+number of interests : 27

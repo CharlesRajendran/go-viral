@@ -1,0 +1,7 @@
+This Jeanne Eagels performance should have won the Best Actress AcademyAward.  I love Mary Pickford but herperformance was probably the weakest of the six nominees;however, thepersonality contest prevailed.Eagels\' performance was focused and intense.  Somerset Maugham\'s storyof murder and intrigue willhold your attention.  Film is difficult to find; it is worth the search.
+=============
+like ratio : 0.8888888888888888
+interest ratio: 0.72
+moviename: The Letter
+number of likes: 16
+number of interests : 18

@@ -1,0 +1,7 @@
+When I check with US movie database, I find it is not a very importantmoviein Hollywood history. But Bathing Beauty is more famous in China than inUS.Actually Bathing beauty is one of few Hollywood movies which officiallyreleased in 40\'s China before communist government took power. EveryChineseover 60 years old remember this movie and Gone With Wind as two outstandingclassic Hollywood picture. My father told me his uncle took him to see thismovie when he was a child, he remember the advertisement all over thestreets at the time and call it a Splendid Colorful Movie. It is true. Thecolor is strong and the final scene is spectacular. Talented actor RedSkelton has great pantomime show in this movie which he mimes ladies\' dressup in the morning and his swan lake ballet is memorable.
+=============
+like ratio : 0.9
+interest ratio: 1.0
+moviename: Bathing Beauty
+number of likes: 27
+number of interests : 30

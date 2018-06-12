@@ -1,0 +1,42 @@
+#JOY - POPULAR - SO OF EACH POLARITY
+
+JOY_P_POSITIVITY_SO = 27.24
+JOY_P_NEGATIVITY_SO = -5.54
+
+
+#JOY - NON POPULAR - SO OF EACH POLARITY
+
+JOY_NP_POSITIVITY_SO = 18.22
+JOY_NP_NEGATIVITY_SO = -5.51
+
+inner_rule_dict = {}
+
+
+def deviations(d):
+    local_pc = 0
+    local_npc = 0
+    
+    #positive
+    angerDP = abs(JOY_P_POSITIVITY_SO - d['semanticOrientationPos'])
+    angerDNP = abs(JOY_NP_POSITIVITY_SO - d['semanticOrientationPos'])
+    if(angerDP>angerDNP):
+        local_npc = local_npc + 1
+        inner_rule_dict['positivity'] = 0
+    else:
+        local_pc = local_pc + 1
+        inner_rule_dict['positivity'] = 1
+
+    #negative
+    antDP = abs(JOY_P_NEGATIVITY_SO - d['semanticOrientationNeg'])
+    antDNP = abs(JOY_NP_NEGATIVITY_SO - d['semanticOrientationNeg'])
+    if(antDP>antDNP):
+        local_npc = local_npc + 1
+        inner_rule_dict['negativity'] = 0
+    else:
+        local_pc = local_pc + 1
+        inner_rule_dict['negativity'] = 1
+
+    if(local_npc>local_pc):
+        return 0
+    else:
+        return 1

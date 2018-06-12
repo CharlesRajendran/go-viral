@@ -1,0 +1,7 @@
+Even in Black and White, Victory at Sea stands as a TV masterpiece.Theirproduction techniques a half century ago using a dramatic musical score toallow the action to flow in lieu of unnecessary chatter, but with theoccasional powerful voice of Leonard Graves to tie the scenes together wasamodel for NFL Films.    
+=============
+like ratio : 0.9375
+interest ratio: 0.8421052631578947
+moviename: `` Victory at Sea ''
+number of likes: 15
+number of interests : 16

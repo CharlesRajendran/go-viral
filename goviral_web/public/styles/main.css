@@ -1,0 +1,145 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    font-family:roboto;
+    padding:1% 3%;
+}
+
+.header-title {
+    font-size:50px;
+    color:#333;
+    font-weight:bolder;
+}
+
+.full-button {
+    width:100%;
+    border-radius:0%;
+    padding:5%;
+    font-size:16px;
+}
+
+#button-section {
+    padding: 1% 5%;
+    margin: 1% 5%;
+}
+
+.full-width {
+    width:100%;
+}
+
+textarea {
+    resize:none;
+}
+
+#content-textarea {
+    height: 123vh;
+    color: #333;
+}
+
+#positive-rules, #negative-rules {
+    height:60vh;
+}
+
+.rules-div {
+    border-radius:0%;
+    background-color:white;
+}
+
+#positive-rules {
+    color:green;
+}
+
+#negative-rules {
+    color:red;
+}
+
+.content-editing-container {
+    border-radius: 0%;
+    background-color: white;
+}
+
+.original-editable {
+    color:red;
+    border-right: 0px;
+}
+
+.modified-content {
+    color:green;
+    border-left: 2px solid #333;
+}
+
+.classified-type {
+    background-color: floralwhite;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    padding-top: 0.55%;
+    padding-left: 1%;
+    border:1px solid #333;
+}
+
+.market-form-text-field {
+    height: 40px;
+    border-radius: 0%;
+    font-family: roboto;
+    font-size:19px;
+}
+
+.header-title > a {
+    color:#333;
+    text-decoration: none;
+}
+
+
+div.tweet-container {
+    background-color: white;
+    border-radius: 0%;
+    margin: 2% 15%;
+}
+
+div.tweet-container * {
+    font-size: 12px;
+}
+
+button.recommend-button {
+    margin-top: 1%;
+}
+
+h3.page-header {
+padding-top:0% !important;
+margin-top:0px;
+color:#333;
+}
+
+#movie_name {
+	border-radius:0px;
+	height:3em;
+	margin:auto auto 5%;
+}
+
+
+
+#popularity_alert {
+    margin: auto 20%;
+    display: none;
+}
+
+#alert_message {
+    font-size: 25px;
+    color: #ff3333;
+    font-weight: 300;
+}
+
+#popularity_percentage_span {
+    font-size: 35px;
+    font-weight: 900;
+}
+
+span.changed_words {
+    font-weight: 900;
+    color: red;
+}

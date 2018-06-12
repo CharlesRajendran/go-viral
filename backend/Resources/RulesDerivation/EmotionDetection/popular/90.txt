@@ -1,0 +1,7 @@
+The first film version of the Olive Higgins Prouty best seller.Despite third billing, Belle Bennett stars as Stella and is very goodin the role of her career. She does an amazing job of aging over a20-year period and is very effective.Ronald Colman stars (and gets tops billing) as Stephen Dallas, andAlice Joyce is Mrs. Morrison.Lois Moran gets the role of Laurel and is excellent, starting out as a10-year-old. Douglas Fairbanks, Jr. plays the boy friend. They wereboth 16. Jean Hersholt is Ed Munn, Vera Lewis is a gossipy teacher, andBeatrix Pryor plays Fairbanks' mother.Bennett never got another good role and died of cancer in 1932.
+=============
+like ratio : 0.8823529411764706
+interest ratio: 2.125
+moviename: Stella Dallas
+number of likes: 15
+number of interests : 17

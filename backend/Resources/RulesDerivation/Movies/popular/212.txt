@@ -1,0 +1,7 @@
+"The Slippery Pearls", also called "The Stolen Jools", is a short comedythat is worth watching for the star power alone.  It\'s amazing how manymovie greats appear in just 20 minutes, from silent film legends to some ofthe (at the time) youngest stars in Hollywood.The actual story, an investigation of the theft of Norma Shearer\'s jewelryat a big party, is just a device to give a "detective" a reason for talkingto all these celebrities.  There are a fair number of decent gags, but thehumor is not nearly as noteworthy as the great cast.  Watch it and see howmany luminaries you can spot.
+=============
+like ratio : 1.0
+interest ratio: 0.5217391304347826
+moviename: The Stolen Jools
+number of likes: 12
+number of interests : 12

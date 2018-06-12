@@ -1,0 +1,7 @@
+This is a great film. Not in the same sense that Bridge on the River Kwai,or 2001. This film delivers a great message in a very palatable form withonly the last minute or two being a little over the top.Betty Davis had only a small part in this film, but what a part hercharacter was the most flawed and learned the most, the hard way.
+=============
+like ratio : 0.84
+interest ratio: 0.6578947368421053
+moviename: Phone Call from a Stranger
+number of likes: 21
+number of interests : 25

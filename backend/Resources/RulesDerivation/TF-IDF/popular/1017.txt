@@ -1,0 +1,7 @@
+Yes, this was, indeed, a fine production. Richard Green certainlybrought the character of Robin Hood to sparkling life with a dashingpersonality and great conviction. Australia's own Errol Flynn did apretty good job as well. These shows were fun. They made history entertaining.It's a shame that kids don't have this sort of educational fare to firetheir imagination these days.Period films and television series have frequently come in for a greatdeal of criticism over the years and much of the flack has beenentirely justified. However, some of the better productions which have graced both the bigand small screens have presented tales of earlier times in a way thatthe printed word has often been unable to.
+=============
+like ratio : 0.9
+interest ratio: 1.0
+moviename: `` The Adventures of Robin Hood ''
+number of likes: 27
+number of interests : 30

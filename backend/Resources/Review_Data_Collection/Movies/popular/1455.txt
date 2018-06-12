@@ -1,0 +1,7 @@
+"The Holly and the Ivy" is the only realistic Christmas movie of the1950\'s.It tells the story of an English minister, Ralph Richardson,  and histhreeconflicted adult children: Margaret Leighton, Celia, Johnson, and DenholmElliott.  Everybody in the cast does a great acting job. This is Mr.Richardson\'s last great role as a leading man in a movie.The story is like riding a roller coaster.  Christmas should be a calmtimefor families, but it is not for this English family. This movie is aforgotten gem.  
+=============
+like ratio : 0.8181818181818182
+interest ratio: 0.8148148148148148
+moviename: The Holly and the Ivy
+number of likes: 18
+number of interests : 22

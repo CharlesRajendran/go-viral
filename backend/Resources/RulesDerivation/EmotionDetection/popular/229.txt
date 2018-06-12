@@ -1,0 +1,7 @@
+Only currently available through the AmericanFilm Institute, which restored the film, this features a remarkableperformance by one of the great stage actresses in the early part of the20th Century.One sees immediately why Ms. Eagels was a star; this is apowerful, emotional tour-de-force which lasts a little over an hour.Littlemore than a filmed stage play for the most part, this film is a veryimportant re-discovery that deserves to get into bettercirculation.
+=============
+like ratio : 0.9615384615384616
+interest ratio: 1.04
+moviename: The Letter
+number of likes: 25
+number of interests : 26

@@ -1,0 +1,7 @@
+Curtiz\' slick, odd, interesting little flick.  Ann Dvorak is a small-towngo-getter.  Her boyfriend deserts her. She hooks up with a worthless,hustling traveling salesman and has a daughter by the boyfriend whodroppedher.  She tries to drop the salesman and gets involved in a murderimbroglio, but gets off with the help of fast-talking newspaper reporterLeeTracy. Fast paced and acted in Warner\'s best style
+=============
+like ratio : 0.8461538461538461
+interest ratio: 1.0833333333333333
+moviename: The Strange Love of Molly Louvain
+number of likes: 11
+number of interests : 13
