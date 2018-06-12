@@ -2,9 +2,9 @@ import requests as req
 
 
 def getSearch(search_query):
-    google_api_key = "AIzaSyAFEtOQSFq-rVfu4QavaOtG7vAhm7hEb0M"
+    google_api_key = "GoogleAPIKey"
     
-    custom_search_engine_id = "008822455400640800027:rqfvnddy_ou"
+    custom_search_engine_id = "SearchEngineId"
     
     url = 'https://www.googleapis.com/customsearch/v1?key='+google_api_key+\
           '&cx='+custom_search_engine_id+'&q='+search_query+''
