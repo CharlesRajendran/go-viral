@@ -2,12 +2,12 @@ import tweepy
 
 def auth():
     # for identifying user
-    consumer_key = "bEC5yGrcJ5ArgNTex1c0usi46"
-    consumer_token = "i4RcGxRdsu4Uq7PykAoiaMp6EJ8D0NCtO8ZikYxUmngek0esay"
+    consumer_key = "TweeterConsumerKey"
+    consumer_token = "CustomerToken"
 
     # for identifying application
-    access_token = "2231444300-AfKQhclhWjJXgdXdhztCUgbAAL5wAuDvDb6tkXQ"
-    access_token_secret = "PjF6Sy8pplidLwHUEh43h8rGRB6zxcLQMHRa1Af2rOJmU"
+    access_token = "AccessToken"
+    access_token_secret = "TokenSecret"
 
     #ouath process
     auth = tweepy.OAuthHandler(consumer_key,consumer_token)
